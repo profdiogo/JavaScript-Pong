@@ -2,4 +2,4 @@
 Jogo desenvolvido em JavaScript do Pong
 
 
-Código desenvolvi por Diogo Garcia
+Código desenvolvi por **Diogo Garcia**
